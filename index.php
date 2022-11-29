@@ -12,5 +12,7 @@
     
     <h2>Soy el index modificado desde GitHub remoto </h2>
 
+    <h1>Esta modificacion es desde VSCode local</h1>
+
 </body>
 </html>
